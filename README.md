@@ -2,7 +2,7 @@
 Este é um código HTML básico para uma página chamada "The Bank", que inclui um cabeçalho com um logotipo e um menu de navegação.
 
 ## Arquivos e Estilos
-- index.html: Este é o arquivo principal HTML que contém a estrutura básica da página, incluindo a marcação semântica usando tags como <header>, <nav>, <ul>, <li>, <a>, <h1>, <img>, etc.
+- index.html: Este é o arquivo principal HTML que contém a estrutura básica da página, incluindo a marcação semântica usando tags como `header`, `nav`, `ul`, `li`, `a`, `h1`, `img`, etc.
 - reset.css: Este é um arquivo de estilo CSS chamado "reset.css" que pode ser usado para redefinir os estilos padrão do navegador e garantir uma aparência consistente em diferentes navegadores.
 - style.css: Este é um arquivo de estilo CSS que contém estilos personalizados para a página "The Bank", como cores, fontes, layout e outros estilos visuais.
 - responsive.css: Este é um arquivo de estilo CSS que contém estilos personalizados para tornar a página responsiva e se adaptar a diferentes tamanhos de tela.
@@ -16,4 +16,4 @@ A página inclui um cabeçalho com um logotipo que é um link para a página ini
 ## Responsividade
 A página também é projetada para ser responsiva, com estilos personalizados no arquivo responsive.css para se adaptar a diferentes tamanhos de tela, como tablets e smartphones.
 
-### Espero que este README tenha fornecido uma visão geral do código e da estrutura da página "The Bank". Você pode continuar desenvolvendo a página adicionando mais conteúdo, estilos e funcionalidades conforme necessário. 
+## Espero que este README tenha fornecido uma visão geral do código e da estrutura da página "The Bank". Você pode continuar desenvolvendo a página adicionando mais conteúdo, estilos e funcionalidades conforme necessário. 
